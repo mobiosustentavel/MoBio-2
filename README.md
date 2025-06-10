@@ -28,7 +28,7 @@ Since October 2023, the equipment has been undergoing review and updates to addr
 
 You are free to download the project files for personal use, such as for educational purposes or to build your own unit. However, commercial use is not permitted.
 
-## 📘 How to Use
+## How to Use
 For assembly and usage instructions, please visit: [`Files/Manuais`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Manuais)
 
 ##
