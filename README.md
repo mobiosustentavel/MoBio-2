@@ -12,7 +12,7 @@ Começou a ser desenvolvida em 2020 por meio de Acordo de  Parceria entre o Bac
 
 Desde outubro de 2023, este equipamento está em processo de revisão e atualização para aprimorar apontamentos de voluntários em testes de usabilidade e para ser mais barata e  de fácil fabricação, por meio da distribuição do projeto em código aberto e fabricada com contraplacados ou placas de plástico reciclado com ferramentas manuais ou digitais de marcenaria (Fresagem). O projeto da Mobio 2.0 já está disponível para download e pode ser feito através do link abaixo. Se tiver dúvidas, sugestões ou quiser compartilhar melhorias, entre em contato conosco! Ficamos felizes em colaborar e buscar novas soluções em conjunto.
 
-Você pode baixar livremente o arquivo desse produto para fins pessoais, como estudo ou se aventurar a produzir o seu próprio móvel, desde que seja para uso pessoal e não para uso comercial.
+Você pode baixar livremente o arquivo desse produto para fins pessoais, como estudo ou se aventurar a produzir sua própria composteira, **desde que seja para uso pessoal e não para uso comercial**.
 
 ## Como usar
 Para instruções de montagem e uso acesse: [`Files/Manuais`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Manuais)
@@ -26,7 +26,7 @@ Development began in 2020 through a collaborative agreement between the Bachelor
 
 Since October 2023, the equipment has been undergoing review and updates to address feedback from usability tests conducted with volunteers. The goal is to make it more affordable and easier to produce by distributing it as an open-source project, using plywood or recycled plastic panels, and allowing fabrication with manual or digital woodworking tools (CNC routing). The MoBio 2.0 project is now available for download via the link below. If you have any questions, suggestions, or would like to contribute improvements, feel free to contact us — we are happy to collaborate and explore new solutions together.
 
-You are free to download the project files for personal use, such as for educational purposes or to build your own unit. However, commercial use is not permitted.
+You are free to download the project files for personal use, such as for educational purposes or to build your own unit. **However, commercial use is not permitted**.
 
 ## How to Use
 For assembly and usage instructions, please visit: [`Files/Manuais`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Manuais)
