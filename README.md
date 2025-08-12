@@ -15,7 +15,7 @@ Desde outubro de 2023, este equipamento está em processo de revisão e atualiza
 Você pode baixar livremente o arquivo desse produto para fins pessoais, como estudo ou se aventurar a produzir sua própria composteira, **desde que seja para uso pessoal e não para uso comercial**.
 
 ## Como usar
-Os arquivos para corte CNC encontram-se nas pastas [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/dwg),[`pdf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/pdf). Verifique as instruções contidas nos arquivos antes de iniciar o corte.
+Os arquivos para corte CNC encontram-se nas pastas [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/dwg),[`pdf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/pdf), [`dxf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/dxf). Verifique as instruções contidas nos arquivos antes de iniciar o corte.
 Para instruções de montagem e uso acesse: [`Manuais`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Manuais)
 
 
@@ -31,7 +31,7 @@ Since October 2023, the equipment has been undergoing review and updates to addr
 You are free to download the project files for personal use, such as for educational purposes or to build your own unit. **However, commercial use is not permitted**.
 
 ## How to Use
-The CNC cutting files are located in the folders [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/dwg),[`pdf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/pdf). Please check the instructions in the file before starting the cutting process. 
+The CNC cutting files are located in the folders [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/dwg),[`pdf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/pdf), [`dxf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/dxf). Please check the instructions in the file before starting the cutting process. 
 For assembly and usage instructions, please visit: [`Manuais`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Manuais)
 
 ##
