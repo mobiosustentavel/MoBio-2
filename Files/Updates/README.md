@@ -45,18 +45,6 @@ The CNC cutting files are located in the folders [`dwg`](https://github.com/mobi
   <img src="https://raw.githubusercontent.com/mobiosustentavel/MoBio-2/main/Files/Updates/MoBio_2_ns/img/focalns.PNG" width="1000">
 </p>
 
-##
-
-<p align="center">
-  <img src="Files/img/ISO.PNG" style="width: 100%; max-width: 1000px;" />
-</p>
-<p align="center">
-  <img src="Files/img/Gaveta.PNG" style="width: 100%; max-width: 1000px;" />
-</p>
-<p align="center">
-  <img src="Files/img/Base.PNG" style="width: 100%; max-width: 1000px;" />
-</p>
-
 ## Mais informações
 
 EDITAL FAPES No 28/2022 - UNIVERSAL
