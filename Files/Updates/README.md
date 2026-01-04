@@ -15,7 +15,7 @@ Desde outubro de 2023 a MoBio está em processo de testes, revisão e atualizaç
 Você pode baixar livremente o arquivo desse produto para fins pessoais, como estudo ou se aventurar a produzir sua própria composteira, **desde que seja para uso pessoal e não para uso comercial.**
 
 ## Como usar
-Os arquivos para corte CNC encontram-se nas pastas dwg,pdf, dxf. Verifique as instruções contidas nos arquivos antes de iniciar o corte. Para instruções de montagem e uso acesse: Manuais
+Os arquivos para corte CNC encontram-se nas pastas [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio_2_ns/dwg), [`dxf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio_2_ns/dxf). Verifique as instruções contidas nos arquivos antes de iniciar o corte. 
 
 # Mobio 2.0 [EN-US]
 
@@ -29,7 +29,7 @@ Since October 2023, MoBio has been undergoing testing, review, and updates to ad
 You are free to download the project files for personal use, such as for educational purposes or to build your own unit. **However, commercial use is not permitted.**
 
 ## How to use
-The CNC cutting files are located in the folders dwg,pdf,dxf. Please check the instructions in the file before starting the cutting process. For assembly and usage instructions, please visit: Manuais
+The CNC cutting files are located in the folders [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio_2_ns/dwg), [`dxf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio_2_ns/dxf). Please check the instructions in the file before starting the cutting process. For assembly and usage instructions, please visit: Manuais
 
 ##
 
@@ -45,6 +45,25 @@ The CNC cutting files are located in the folders dwg,pdf,dxf. Please check the i
   <img src="https://raw.githubusercontent.com/mobiosustentavel/MoBio-2/main/Files/Updates/MoBio_2_ns/img/focalns.PNG" width="1000">
 </p>
 
+##
+
+<p align="center">
+  <img src="Files/img/ISO.PNG" style="width: 100%; max-width: 1000px;" />
+</p>
+<p align="center">
+  <img src="Files/img/Gaveta.PNG" style="width: 100%; max-width: 1000px;" />
+</p>
+<p align="center">
+  <img src="Files/img/Base.PNG" style="width: 100%; max-width: 1000px;" />
+</p>
+
+## Mais informações
+
+EDITAL FAPES No 28/2022 - UNIVERSAL
+
+<a href="https://github.com/mobiosustentavel/MoBio-2">MoBio 2.0</a> © 2025 by <a href="https://creativecommons.org">Arthur Carvalho and Alhandra Pereira</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a>
+
+<img style="max-width: 1em; max-height: 1em; margin-left: .2em;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" /><img style="max-width: 1em; max-height: 1em; margin-left: .2em;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" /><img style="max-width: 1em; max-height: 1em; margin-left: .2em;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" />
 
 
 
