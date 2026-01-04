@@ -17,7 +17,7 @@ Você pode baixar livremente o arquivo desse produto para fins pessoais, como es
 ## Como usar
 Os arquivos para corte CNC encontram-se nas pastas [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio_2_ns/dwg), [`dxf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio_2_ns/dxf). Verifique as instruções contidas nos arquivos antes de iniciar o corte. 
 
-# Mobio 2.0 [EN-US]
+# Mobio 2.0 NS [EN-US]
 
 ## Updates
 **MoBio 2.0** was submitted to usability testing with volunteers and, based on the results obtained, the **No Screws (NS)** model was developed. This version aims to optimize the construction process, reduce the final weight of the product, and expand the range of materials that can be used, allowing assembly without the use of nails or screws.
