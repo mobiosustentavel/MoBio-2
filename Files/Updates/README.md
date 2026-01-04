@@ -3,7 +3,7 @@
 ## Atualizações
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mobiosustentavel/MoBio-2/main/Files/Updates/MoBio_2_ns/img/topons.PNG" width="1000">
+  <img src="https://raw.githubusercontent.com/mobiosustentavel/MoBio-2/main/Files/Updates/MoBio-2-NS/img/topons.PNG" width="1000">
 </p>
 
 A **MoBio 2.0** foi submetida a testes de usabilidade com voluntários e, a partir dos resultados obtidos, foi desenvolvido o modelo **No Screws (NS)**. Essa versão tem como objetivo otimizar o processo construtivo, reduzir o peso final do produto e ampliar as possibilidades de materiais empregados, permitindo sua montagem sem o uso de pregos ou parafusos.
@@ -15,7 +15,7 @@ Desde outubro de 2023 a MoBio está em processo de testes, revisão e atualizaç
 Você pode baixar livremente o arquivo desse produto para fins pessoais, como estudo ou se aventurar a produzir sua própria composteira, **desde que seja para uso pessoal e não para uso comercial.**
 
 ## Como usar
-Os arquivos para corte CNC encontram-se nas pastas [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio_2_ns/dwg), [`dxf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio_2_ns/dxf). Verifique as instruções contidas nos arquivos antes de iniciar o corte. 
+Os arquivos para corte CNC encontram-se nas pastas [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio-2-NS/dwg), [`dxf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio-2-NS/dxf). Verifique as instruções contidas nos arquivos antes de iniciar o corte. 
 
 # Mobio 2.0 NS [EN-US]
 
@@ -29,20 +29,20 @@ Since October 2023, MoBio has been undergoing testing, review, and updates to ad
 You are free to download the project files for personal use, such as for educational purposes or to build your own unit. **However, commercial use is not permitted.**
 
 ## How to use
-The CNC cutting files are located in the folders [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio_2_ns/dwg), [`dxf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio_2_ns/dxf). Please check the instructions in the file before starting the cutting process. For assembly and usage instructions, please visit: Manuais
+The CNC cutting files are located in the folders [`dwg`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio-2-NS/dwg), [`dxf`](https://github.com/mobiosustentavel/MoBio-2/tree/main/Files/Updates/MoBio-2-NS/dxf). Please check the instructions in the file before starting the cutting process. For assembly and usage instructions, please visit: Manuais
 
 ##
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mobiosustentavel/MoBio-2/main/Files/Updates/MoBio_2_ns/img/fullsetns.PNG" width="1000">
+  <img src="https://raw.githubusercontent.com/mobiosustentavel/MoBio-2/main/Files/Updates/MoBio-2-NS/img/fullsetns.PNG" width="1000">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mobiosustentavel/MoBio-2/main/Files/Updates/MoBio_2_ns/img/joinns.PNG" width="1000">
+  <img src="https://raw.githubusercontent.com/mobiosustentavel/MoBio-2/main/Files/Updates/MoBio-2-NS/img/joinns.PNG" width="1000">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mobiosustentavel/MoBio-2/main/Files/Updates/MoBio_2_ns/img/focalns.PNG" width="1000">
+  <img src="https://raw.githubusercontent.com/mobiosustentavel/MoBio-2/main/Files/Updates/MoBio-2-NS/img/focalns.PNG" width="1000">
 </p>
 
 ## Mais informações
